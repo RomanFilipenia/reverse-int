@@ -8,4 +8,4 @@ module.exports = function reverse (int) {
    arr=parseInt(arr.join(''),10);
     return arr;
 }
-}
+
